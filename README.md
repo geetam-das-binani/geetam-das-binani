@@ -33,10 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geetam-das-binani&show_icons=true&locale=en" alt="geetam-das-binani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geetam-das-binani&" alt="geetam-das-binani" /></p>
-, I’m @geetam-das-binani
-- 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning  coding by myself....
-- 💞️ I’m looking to collaborate on with various top companies and startups..
+
    
 
 
