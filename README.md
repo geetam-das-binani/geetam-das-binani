@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Html, Css,Git, GitHub**
+- 💬 Ask me about **Html, Css,Git, Javascript GitHub**
 
 - 📫 How to reach me **geetambinani6@gmail.com**
 
