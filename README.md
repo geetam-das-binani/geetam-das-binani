@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **File Uploader using Js*
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Html, Css,Git, GitHub**
 
