@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning backend web development **express**
+- 🌱 I’m currently building full stack e-commerce app using mern stack
 
 - 👨‍💻 All of my projects are available at [https://github.com/geetam-das-binani?tab=repositories](https://github.com/geetam-das-binani?tab=repositories)
 
