@@ -15,7 +15,7 @@ src='https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541
 
 - 📫 How to reach me **geetambinani6@gmail.com**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Let's+Connect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Let's+Connect++%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://www.linkedin.com/in/geetam-binani-135670255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geetam binani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21160132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21160132" height="30" width="40" /></a>
