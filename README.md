@@ -1,6 +1,7 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Geetam Das Binani</h1>
-<h3 align="center">I'm currently learning next.js....</h3>
+<h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am++Geetam+Das+Binani)](https://git.io/typing-svg)
+</h1>
 <img align="right" alt="Coding" width="400" src='https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetam-das-binani&label=Profile%20views&color=0e75b6&style=flat" alt="geetam-das-binani" /> </p>
